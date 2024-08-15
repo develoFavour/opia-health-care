@@ -25,3 +25,4 @@ export default function GlobalError({
     </html>
   );
 }
+// SENTRY_AUTH_TOKEN=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
