@@ -75,7 +75,7 @@ export default function Page() {
         <p style={{ marginTop: "24px" }}>
           For more information, see{" "}
           <a href="https://docs.sentry.io/platforms/javascript/guides/nextjs/">
-            https://docs.sentry.io/platforms/javascript/guides/nextjs/
+            https://docs.sentry.io/platforms/javascript/guides/nextjs
           </a>
         </p>
       </main>
